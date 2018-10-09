@@ -5,11 +5,11 @@
 
 
 ### Description
-#####This was a webpage created to understand the basic concepts of HTML
+##### This was a webpage created to understand the basic concepts of HTML
 
-###Technology Used
+### Technology Used
 * Atom
 * HTML
 
-###Contact Information
-_ sheila.je@gmail.com-
+### Contact Information
+_sheila.je@gmail.com_
